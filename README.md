@@ -2,10 +2,14 @@
 TOPIC - EMPLOYEE DATABASE
 
 Benefits of JasonPowerDB:-
-Minimum development cost.
-Maximum data processing performance.
-Minimum Time to Market.
-Minimize the complexity of interoperability of different application.
+
+1.Minimum development cost.
+
+2.Maximum data processing performance.
+
+3.Minimum Time to Market.
+
+4.Minimize the complexity of interoperability of different application.
 
 Release history:-
 JsonPowerDB 0.2.7 beta released in Dec-2017. This is a major release with many new exciting features including easy to use NoSQL with querying multiple databases, Serverless API support, Developer Dashboard, and DBaaS deployment.
